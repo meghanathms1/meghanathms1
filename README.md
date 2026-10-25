@@ -30,6 +30,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0D1117&height=80&section=footer" width="100%" />
 
-*Building something better, one commit at a time.*
+
 
 </div>
