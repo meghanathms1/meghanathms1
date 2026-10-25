@@ -8,8 +8,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
+
+[![LinkedIn](https://www.linkedin.com/in/meghanathms/)
 
 </div>
 
