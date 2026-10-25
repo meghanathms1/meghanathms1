@@ -1,112 +1,115 @@
-# Hi, I'm Meghanath MS 👋
+<!-- Animated Header -->
 
-### Full Stack Developer | React.js | Node.js | MySQL | IoT
+<div align="center">
 
-I'm a Full Stack Developer passionate about building modern web applications, real-time systems, and IoT solutions. I enjoy solving complex technical problems, learning new technologies, and turning ideas into practical software.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Meghanath+MS+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL;Building+Ideas+Into+Reality" alt="Animated typing introduction" />
 
-- 🔭 **Currently working on:** Web applications, VMS dashboards, and real-time systems.
-- 🌱 **Currently learning:** Advanced JavaScript, backend architecture, system design, and cloud technologies.
-- 💻 **Interests:** Full Stack Development, IoT, MQTT, real-time communication, and scalable applications.
-- 🎯 **Goal:** Become an expert software engineer and build impactful technology products.
-- 🤝 **Open to:** Collaborations, challenging projects, and open-source contributions.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00D9FF,50:6C63FF,100:FF4ECD&text=CODE%20%7C%20BUILD%20%7C%20REPEAT&fontColor=FFFFFF&fontSize=25&animation=fadeIn&fontAlignY=55&stroke=00D9FF&strokeWidth=1" width="100%" />
 
----
+</div>
 
-## 🛠️ Tech Stack
+<!-- Social Links -->
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4ECD" />
+</a>
 
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+</div>
 
-### IoT & Tools
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- Animated Coding GIF -->
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding animation" />
 
-### 1. NexView Enterprise VMS
-A video management system focused on camera monitoring and enterprise surveillance.
+</div>
 
-- Developing camera grid and fullscreen viewing interfaces.
-- Working on PTZ controls, digital zoom, and camera configuration.
-- Building settings interfaces for language, licensing, updates, and backup.
+<!-- Tech Stack -->
 
-**Technologies:** React, JavaScript, Tailwind CSS, Node.js
+<h2 align="center">⚡ TECH STACK ⚡</h2>
 
-### 2. Task Management System
-A web application for managing tasks, subtasks, assignments, and performance tracking.
+<div align="center">
 
-- Task assignment and status management.
-- Recurring task scheduling.
-- Manager and CEO dashboards.
-- Real-time updates using Socket.IO.
+<img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,html,css,nodejs,express,socketio,prisma,mysql,aws,arduino,git,github,postman&theme=dark&perline=8" />
 
-**Technologies:** React, Node.js, Express.js, Prisma, MySQL, Socket.IO
+</div>
 
-### 3. IoT Smart Device Control
-An IoT project exploring how to control physical devices through a web application.
+<!-- GitHub Stats -->
 
-- ESP32-based device communication.
-- MQTT publisher and subscriber architecture.
-- Relay-based switching for electrical devices.
-- Backend integration for processing and storing sensor data.
+<h2 align="center">📊 GITHUB STATS</h2>
 
-**Technologies:** ESP32, MQTT, Node.js, MySQL, React
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4ECD&text_color=FFFFFF&rank_icon=github" />
 
-## 📊 GitHub Statistics
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF4ECD&currStreakLabel=00D9FF" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+</div>
 
----
+<!-- Contribution Graph -->
 
-## 💡 What I'm Working Toward
+<h2 align="center">🔥 CONTRIBUTION GRAPH 🔥</h2>
 
-- Writing clean, maintainable, and efficient code.
-- Building scalable backend APIs and real-time applications.
-- Improving frontend architecture and responsive UI development.
-- Understanding system design, networking, and cloud infrastructure.
-- Developing practical IoT and automation solutions.
-- Contributing to the developer community and open-source projects.
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00D9FF&line=6C63FF&point=FF4ECD&area=true&hide_border=true" width="100%" />
 
-## 🤝 Connect With Me
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+</div>
 
-📧 **Email:** YOUR_EMAIL_ADDRESS
+<!-- Featured Projects -->
 
----
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-### 💻 Code. Learn. Build. Repeat.
+<div align="center">
 
-*"Great software is built through curiosity, consistency, and continuous improvement."*
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/🎥_NexView-VMS-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF" />
+</a>
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/📊_Task-Management-0D1117?style=for-the-badge&labelColor=0D1117&color=6C63FF" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/⚡_IoT-Smart_Control-0D1117?style=for-the-badge&labelColor=0D1117&color=FF4ECD" />
+</a>
+
+</div>
+
+<!-- Current Focus -->
+
+<h2 align="center">🎯 CURRENT FOCUS</h2>
+
+<div align="center">
+
+`Full Stack Development` • `Real-Time Systems` • `Cloud & AWS` • `IoT & MQTT` • `System Design`
+
+</div>
+
+<!-- Footer -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:FF4ECD&height=120&section=footer" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+
+<br/>
+
+**⚡ Building the future, one commit at a time. ⚡**
+
+</div>
