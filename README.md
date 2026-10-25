@@ -1,115 +1,149 @@
-<!-- Animated Header -->
+ <!-- ═══════════════ HERO SECTION ═══════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Meghanath+MS+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL;Building+Ideas+Into+Reality" alt="Animated typing introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111B42,70:38276B,100:00D9FF&height=230&section=header&text=MEGHANATH%20MS&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ENGINEERING%20DIGITAL%20EXPERIENCES&descAlignY=59&descSize=16" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00D9FF,50:6C63FF,100:FF4ECD&text=CODE%20%7C%20BUILD%20%7C%20REPEAT&fontColor=FFFFFF&fontSize=25&animation=fadeIn&fontAlignY=55&stroke=00D9FF&strokeWidth=1" width="100%" />
-
-</div>
-
-<!-- Social Links -->
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer+%E2%9A%A1;Turning+Ideas+Into+Interactive+Experiences;Building+Real-Time+Systems+%26+IoT;Design.+Develop.+Deploy.+Repeat." alt="Animated developer introduction" />
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4ECD" />
-</a>
-
-</div>
-
-<!-- Animated Coding GIF -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding animation" />
-
-</div>
-
-<!-- Tech Stack -->
-
-<h2 align="center">⚡ TECH STACK ⚡</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,html,css,nodejs,express,socketio,prisma,mysql,aws,arduino,git,github,postman&theme=dark&perline=8" />
-
-</div>
-
-<!-- GitHub Stats -->
-
-<h2 align="center">📊 GITHUB STATS</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4ECD&text_color=FFFFFF&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF4ECD&currStreakLabel=00D9FF" />
-
-</div>
-
-<!-- Contribution Graph -->
-
-<h2 align="center">🔥 CONTRIBUTION GRAPH 🔥</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00D9FF&line=6C63FF&point=FF4ECD&area=true&hide_border=true" width="100%" />
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph" />
-
-</div>
-
-<!-- Featured Projects -->
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<div align="center">
-
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/🎥_NexView-VMS-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF" />
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/📊_Task-Management-0D1117?style=for-the-badge&labelColor=0D1117&color=6C63FF" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/⚡_IoT-Smart_Control-0D1117?style=for-the-badge&labelColor=0D1117&color=FF4ECD" />
-</a>
+<img src="https://img.shields.io/badge/CREATIVE%20ENGINEERING-0D1117?style=for-the-badge&logo=lightning&logoColor=FF4ECD" />
+<img src="https://img.shields.io/badge/ALWAYS%20BUILDING-0D1117?style=for-the-badge&logo=rocket&logoColor=00D9FF" />
 
 </div>
-
-<!-- Current Focus -->
-
-<h2 align="center">🎯 CURRENT FOCUS</h2>
-
-<div align="center">
-
-`Full Stack Development` • `Real-Time Systems` • `Cloud & AWS` • `IoT & MQTT` • `System Design`
-
-</div>
-
-<!-- Footer -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:FF4ECD&height=120&section=footer" width="100%" />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 <br/>
 
-**⚡ Building the future, one commit at a time. ⚡**
+<!-- ═══════════════ ANIMATED DEVELOPER ═══════════════ -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Animated developer coding" />
+
+<br/>
+
+**`while (alive) { learn(); build(); repeat(); }`**
+
+</div>
+
+---
+
+<!-- ═══════════════ TECH UNIVERSE ═══════════════ -->
+
+<h2 align="center">◈ THE TECH UNIVERSE ◈</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&theme=dark&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,socketio&theme=dark&perline=5" />
+
+<img src="https://skillicons.dev/icons?i=aws,arduino,git,github,postman,vscode&theme=dark&perline=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FRONTEND-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/BACKEND-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/DATABASE-FF4ECD?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-00E5A8?style=flat-square" />
+<img src="https://img.shields.io/badge/CLOUD-FFB86C?style=flat-square" />
+
+</div>
+
+---
+
+<!-- ═══════════════ PROJECT SHOWCASE ═══════════════ -->
+
+<h2 align="center">◈ SELECTED BUILDS ◈</h2>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/01%20%2F%20SURVEILLANCE-NEXVIEW%20VMS-080B16?style=for-the-badge&logo=webrtc&logoColor=00D9FF&labelColor=080B16&color=00D9FF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/02%20%2F%20PRODUCTIVITY-TASK%20MANAGEMENT-080B16?style=for-the-badge&logo=react&logoColor=8B5CF6&labelColor=080B16&color=8B5CF6" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/03%20%2F%20CONNECTED%20WORLD-IoT%20SMART%20CONTROL-080B16?style=for-the-badge&logo=arduino&logoColor=00E5A8&labelColor=080B16&color=00E5A8" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+
+<h2 align="center">◈ THE DEVELOPER DASHBOARD ◈</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9FF&icon_color=FF4ECD&text_color=E6EDF3&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9FF&text_color=E6EDF3" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=080B16&ring=00D9FF&fire=FF4ECD&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+</div>
+
+---
+
+<!-- ═══════════════ CONTRIBUTION MATRIX ═══════════════ -->
+
+<h2 align="center">◈ THE CONTRIBUTION MATRIX ◈</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080B16&color=00D9FF&line=8B5CF6&point=FF4ECD&area=true&area_color=111B42&hide_border=true&custom_title=CODE%20ACTIVITY" width="100%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+</div>
+
+---
+
+<!-- ═══════════════ DEVELOPER PHILOSOPHY ═══════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=080B16&height=2&section=header&reversal=false" width="80%" />
+
+### `LESS TALK. MORE BUILD. BETTER SYSTEMS.`
+
+<sub>Curiosity is the engine. Code is the language. Innovation is the destination.</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20EVOLVING-080B16?style=for-the-badge&logo=git&logoColor=00D9FF&labelColor=080B16&color=00D9FF" />
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20UNIVERSE-111B42?style=for-the-badge&logo=github&logoColor=FFFFFF&color=111B42" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:38276B,100:050816&height=120&section=footer" />
 
 </div>
