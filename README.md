@@ -1,71 +1,94 @@
+<!-- HERO -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Meghanath+MS+%F0%9F%91%8B;Full+Stack+Developer;Web+Development+%7C+IoT+%7C+Cloud;Code.+Create.+Innovate." alt="Animated introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111B42,100:06D9FF&height=180&section=header" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:06B6D4&height=3" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=MEGHANATH+MS;FULL+STACK+DEVELOPER;DESIGNING.+BUILDING.+INNOVATING." alt="Animated introduction" />
 
-**Code. Create. Innovate.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7C3AED,100:FF4ECD&height=2&section=header" width="70%" />
 
-<a href="https://www.linkedin.com/in/meghanathms">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<br/>
+
+`DIGITAL CRAFTSMANSHIP` &nbsp; · &nbsp; `CLEAN CODE` &nbsp; · &nbsp; `CREATIVE ENGINEERING`
+
+<br/><br/>
+
 <a href="https://github.com/meghanathms1">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00D9FF" />
+</a>
+<a href="https://www.linkedin.com/in/meghanathms">
+<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
 
 </div>
 
 ---
 
-<h3 align="center">⚡ TECH STACK & TOOLS</h3>
+<!-- TECH STACK -->
 
 <div align="center">
 
-**Frontend Development**
+<h2>◈ &nbsp; THE TOOLKIT &nbsp; ◈</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,materialui,bootstrap,gsap&theme=dark&perline=6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:172554&height=3" width="45%" />
 
-**Backend Development**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark&perline=5" />
+**01 / INTERFACES**
 
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-333333?style=flat-square&logo=websocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,materialui,bootstrap,gsap&theme=dark&perline=9" />
 
-**Database & Cloud**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,aws&theme=dark&perline=5" />
+**02 / ENGINEERING**
 
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql&theme=dark&perline=6" />
 
-**IoT & Real-Time Communication**
+<br/>
+
+**03 / CLOUD & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,npm&theme=dark&perline=6" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AMAZON%20EC2-0D1117?style=flat-square&logo=amazonec2&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AMAZON%20S3-0D1117?style=flat-square&logo=amazons3&logoColor=569A31" />
+<img src="https://img.shields.io/badge/CLOUDFRONT-0D1117?style=flat-square&logo=amazoncloudfront&logoColor=8C4FFF" />
+<img src="https://img.shields.io/badge/PM2-0D1117?style=flat-square&logo=pm2&logoColor=FFFFFF" />
+
+<br/><br/>
+
+**04 / CONNECTED SYSTEMS**
 
 <img src="https://skillicons.dev/icons?i=arduino,python&theme=dark&perline=4" />
 
-<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=E7352C" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
-<img src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
-<img src="https://img.shields.io/badge/Paho%20MQTT-3776AB?style=flat-square&logo=python&logoColor=white" />
+<br/>
 
-**Development Tools & UI Design**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark&perline=6" />
-
-<img src="https://img.shields.io/badge/React%20ApexCharts-FF4560?style=flat-square&logo=apexcharts&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=E7352C" />
+<img src="https://img.shields.io/badge/MQTT-0D1117?style=flat-square&logo=eclipsemosquitto&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/SOCKET.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/FIGMA-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/POSTMAN-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" />
 
 </div>
 
 ---
 
+<!-- SIGNATURE -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=8B9BB4&center=true&vCenter=true&width=600&lines=Ideas+into+interfaces.;Logic+into+experiences.;Code+into+possibilities." alt="Creative signature" />
 
-**Building something better, one commit at a time.** ✨
+<br/>
+
+**MAKE IT SIMPLE. MAKE IT MATTER.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06D9FF,50:312E81,100:050816&height=120&section=footer" width="100%" />
 
 </div>
