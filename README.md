@@ -23,21 +23,8 @@
 
 </div>
 
-### 🚀 Building
 
-- **NexView VMS** — Video surveillance systems
-- **Task Management** — Real-time task tracking
-- **IoT Projects** — ESP32, MQTT, and smart devices
 
-### 📈 GitHub
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
